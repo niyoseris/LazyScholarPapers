@@ -695,7 +695,8 @@ Minda de Gunzburg Center for European Studies (2017). 9 Fall/Winter 2016  • vo
 151. thinking about preferences over general choice sets,
 and showed the more-or-less equivalence between complete and transitive preferences
 and choice rules satisfying the Weak Axiom of Revealed Preferences
-•In fact, you'll esh out the formal results on the homework due next Monday
+•In fact, you'll 
+esh out the formal results on the homework due next Monday
 •And we dened what it means for a utility function to represent preferences,
 and showed if XRkand preferences are complete, transiti (2021). Lecture 8: Properties of Preferences 1 Where we are •We kicked o consumer theory by thinking about preferences over general choice sets,.
 
